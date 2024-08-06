@@ -13,26 +13,25 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jon E. Froehlich
-email: jonf@cs.uw.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Professor Froehlich's academic webpage.
-twitter_username: jonfroehlich
-github_username: jonfroehlich
-minimal_mistakes_skin: default
+title: Chin-Erdene Gantulga
+email: chinehuu@cs.washington.edu
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Chin-Erdene Gantulga portfolio webpage
+github_username: Chin-eng
+minimal_mistakes_skin: 'air'
 search: false
 
 # Social media and social sharing
-twitter:
-  username: "jonfroehlich" # See: https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-twitter-username
+# twitter:
+#   username: "jonfroehlich" # See: https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-twitter-username
 
-og_image: /assets/images/MakeabilityLab-Logo-v3-OriginalColors_1200x628.png # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#open-graph-default-image
+# og_image: /assets/images/MakeabilityLab-Logo-v3-OriginalColors_1200x628.png # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#open-graph-default-image
 
 social:
   links:
-    - https://twitter.com/jonfroehlich
-    - https://www.linkedin.com/in/jonfroehlich
-    - https://hci.social/web/@jonfroehlich
+    # - https://twitter.com/jonfroehlich
+    - https://www.linkedin.com/in/chin-erdene-gantulga-192452209/
+    # - https://hci.social/web/@jonfroehlich
 
 # https://mmistakes.github.io/minimal-mistakes/docs/navigation/#breadcrumbs-beta
 breadcrumbs: true  # disabled by default
@@ -71,47 +70,45 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jon E. Froehlich"
-  avatar : "/assets/images/JonFroehlich_PhotoByDennisWise.jpg"
-  bio    : "Professor<br/>[Allen School of Computer Science](http://cs.washington.edu/)<br/>University of Washington
-            <br/><br/>Director, [Makeability Lab](https://makeabilitylab.cs.washington.edu)<br/>Associate Director, [CREATE](https://create.uw.edu/)<br/>
-            Associate Director, [PacTrans](http://depts.washington.edu/pactrans/)<br/>Member, [DUB](http://dub.uw.edu/)
-            <br/><br/>**Contact:**<br/>Paul G. Allen Center, Room 642<br/><jonf@cs.uw.edu>
-            <br/><br/>**ORCID:**<br/>[0000-0001-8291-3353](https://orcid.org/0000-0001-8291-3353)"
-  links:
-    - label: "Makeability Lab"
-      icon: "makelab-logo"
-      url: "https://makeabilitylab.cs.washington.edu/"
-    - label: "Lab Handbook"
-      icon: "svg-inline--fa fa-w-14 fa-fw makelab-logo"
-      url: "https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jonfroehlich"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jonfroehlich"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=nExKrpsAAAAJ&hl=en"
+  name   : "Chin-Erdene Gantulga"
+  avatar : "/assets/images/chin-Erdene Gantulga.png"
+  bio    : "Currently navigating my life as a Computer Science student at the University of Washington, Paul G.Allen School."
 
-footer:
-   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jonf@cs.uw.edu"
-    - label: "Makeability Lab"
-      icon: "fas fa-fw fa-link"
-      url: "https://makeabilitylab.cs.washington.edu/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jonfroehlich"
+  links:
+    # - label: "Makeability Lab"
+    #   icon: "makelab-logo"
+    #   url: "https://makeabilitylab.cs.washington.edu/"
+    # - label: "Lab Handbook"
+    #   icon: "svg-inline--fa fa-w-14 fa-fw makelab-logo"
+    #   url: "https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/chin-erdene-gantulga-192452209/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jonfroehlich"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=nExKrpsAAAAJ&hl=en"
+      url: "https://github.com/chin-eng"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:chinehuu@cs.washington.edu"
+
+
+# footer:
+#    links:
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "mailto:jonf@cs.uw.edu"
+#     - label: "Makeability Lab"
+#       icon: "fas fa-fw fa-link"
+#       url: "https://makeabilitylab.cs.washington.edu/"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/jonfroehlich"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/jonfroehlich"
+#     - label: "Google Scholar"
+#       icon: "fab fa-fw fa-google"
+#       url: "https://scholar.google.com/citations?user=nExKrpsAAAAJ&hl=en"
 
 defaults:
   # _posts
@@ -145,3 +142,15 @@ tag_archive:
 #   google:
 #     tracking_id: "UA-28482802-2"
 #     anonymize_ip: false # default
+
+
+collections:
+  blog:
+    output: true
+    permalink: /blog/:name/
+  experiences:
+    output: true
+    permalink: /experiences/:name/
+  projects:
+    output: true
+    permalink: /projects/:name/
