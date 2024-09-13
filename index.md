@@ -12,27 +12,27 @@ toc: true
 
 Hi 👋,
 
-Welcome to my portfolio website! My name is Chin-Erdene Gantulga. This site is organized into five main parts, bringing together all my work in one place.  I will also update the website periodically, so it is always under construction.
+Welcome to my portfolio website! My name is Chin-Erdene Gantulga. This site is dedicated to bringing together all my works. I will also update the website periodically, so it is updated regularly!
 
 ### Bio
 
-In this section, you can find my personal information, including my background, current endeavors, hobbies, and future aspirations!
+In this section, you can find my personal information, including my background, current school, hobbies, and future plans!
 
-### Blogs
+<!-- ### Blogs
 
-I've wanted to write blogs for a very long time but hesitated because I wasn't comfortable sharing my personal ideas and thoughts. However, I've decided to start blogging now. You can find out why in my first blog post, "[Why I Decided to Write Blogs](http://makeabilitylab.io/)”
+I've wanted to write blogs for a very long time but hesitated because I wasn't comfortable sharing my personal ideas and thoughts. However, I've decided to start blogging now. You can find out why in my first blog post, "[Why I Decided to Write Blogs](http://makeabilitylab.io/)” -->
 
-### Academic Course Evaluations
+### Courses
 
-This part is not added to the main menu yet, but I will include it in the future. The reason for writing course evaluations is simple: I want to document how the courses were during my undergraduate years, whether they were organized, my experience taking the courses, and my perspective on how the courses could be improved to be more appealing to students.
+Here, I basically wanted to write brief overview of my experiences with classes, such as course content, professors, and homework! I guess writing down the course content reinforces the learning. 
 
 ### Projects
 
-In this section, I will provide detailed explanations of the projects I have worked on, balancing technical depth with clarity for a general audience. This will include both class projects and independent work. The content will evolve over time as I continue to work on new projects and gain more experience.
+In this section, I will do my best to provide explanations of the projects I have worked on, balancing technical depth but with a clarity for non-technical person. I believe the content will evolve over time as I continue to work on new projects. 
 
 ### Experiences
 
-Listing my experiences on a resume as dry texts doesn't fully capture the value and insights I've gained from each role. To provide a more comprehensive view, I'll delve deeper into my work experiences here. Same, this section will continue to grow and evolve as I accumulate more experience.
+I wanted to talk more about my experiences in detail here because there are times I need to look back to the technical stuff, so I’m documenting them here for future references. 
 
 
 
