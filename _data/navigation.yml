@@ -3,7 +3,10 @@ main:
   - title: "Bio"
     url: bio
 
-  - title: "Blog"
+  # - title: "Blog"
+  #   url: blog
+  
+  - title: "Course"
     url: blog
 
   - title: "Projects"

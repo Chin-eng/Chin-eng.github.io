@@ -24,7 +24,7 @@ I've wanted to write blogs for a very long time but hesitated because I wasn't c
 
 ### Courses
 
-Here, I basically wanted to write brief overview of my experiences with classes, such as course content, professors, and homework! I guess writing down the course content reinforces the learning. 
+Here, I basically wanted to write brief overview of my experiences with classes at the UW, such as course content, professors, and homework! I wanted to write about them so that I would be able to reference them in the future!
 
 ### Projects
 
