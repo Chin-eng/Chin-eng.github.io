@@ -32,8 +32,7 @@ In this section, I will do my best to provide explanations of the projects I hav
 
 ### Experiences
 
-I wanted to talk more about my experiences in detail here because there are times I need to look back to the technical stuff, so I’m documenting them here for future references. 
-
+I wanted to talk more about my experiences in detail here because there are times I need to look back to the technical stuff, so I’m documenting them here again for future references. 
 
 
 

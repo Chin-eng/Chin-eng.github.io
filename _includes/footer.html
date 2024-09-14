@@ -1,35 +1,27 @@
 <div class="page__footer-follow">
-    <!-- Some webistes that talk about tweaking the footer in minimal mistakes:
-         - https://nithiya.gitlab.io/development/pages-tweaks/#footer
-    -->
-
-    <!-- The default footer-follow page:
-        https://github.com/mmistakes/minimal-mistakes/blob/master/_includes/footer.html
-    -->
     <div class="footer-logos">
-
         <a href="https://www.youtube.com/watch?v=ux-51EV0jQA">
-            <img src="assets/images/youtube.png"
+            <img src="{{ site.baseurl }}/assets/images/youtube.png"
                 alt="youtube" />
         </a>
         <a href="https://en.wikipedia.org/wiki/Mongolian_script">
-            <img src="assets/images/Mongol_bichig.png" style="max-height: 50px;"
+            <img src="{{ site.baseurl }}/assets/images/Mongol_bichig.png" style="max-height: 50px;"
                 alt="The Mongolian Script" />
         </a>
         <a href="https://www.youtube.com/watch?v=wGRF3GQ4Wdk">
-            <img src="assets/images/thank me.png"
-                alt="Snopp Dog pep talk"/>
+            <img src="{{ site.baseurl }}/assets/images/thank me.png"
+                alt="Snoop Dog pep talk"/>
         </a>
         <a href="https://cs.washington.edu">
-            <!-- Responsive logo for Allen School depending on screen size: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture -->
             <picture>
-                <source media="(min-width: 900px)" srcset="assets/images/Logo_AllenSchool_Black.png">
-                <source media="(min-width: 480px)" srcset="assets/images/Logo_AllenSchool_Black_Square.png">
-                <img src="assets/images/Logo_AllenSchool_Black_Square.png" alt="The Allen School CS logo, which is a larger UW W with Paul G. Allen School of Computer Science and Engineering text.">
+                <source media="(min-width: 900px)" srcset="{{ site.baseurl }}/assets/images/Logo_AllenSchool_Black.png">
+                <source media="(min-width: 480px)" srcset="{{ site.baseurl }}/assets/images/Logo_AllenSchool_Black_Square.png">
+                <img src="{{ site.baseurl }}/assets/images/Logo_AllenSchool_Black_Square.png" alt="The Allen School CS logo, which is a larger UW with Paul G. Allen School of Computer Science and Engineering text.">
             </picture>
         </a>
     </div>
 </div>
+
 
 <!-- <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.
     {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com"

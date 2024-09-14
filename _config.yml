@@ -148,9 +148,13 @@ collections:
   blog:
     output: true
     permalink: /blog/:name/
+  courses:
+    output: true
+    permalink: /courses/:name/
   experiences:
     output: true
     permalink: /experiences/:name/
   projects:
     output: true
     permalink: /projects/:name/
+  

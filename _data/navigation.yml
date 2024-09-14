@@ -6,12 +6,12 @@ main:
   # - title: "Blog"
   #   url: blog
   
-  - title: "Course"
-    url: blog
+  - title: "Courses"
+    url: courses
 
   - title: "Projects"
-    url: projects/project
+    url: projects
 
   - title: "Experiences"
-    url: experiences/experience
+    url: experiences
 

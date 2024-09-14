@@ -1,0 +1,16 @@
+---
+layout: archive
+author_profile: true
+---
+
+{{ content }}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "List of Courses" }}</h3>
+
+<ul>
+  {% for course in site.courses %}
+    <li>
+      <a href="{{ course.url }}">{{ course.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
