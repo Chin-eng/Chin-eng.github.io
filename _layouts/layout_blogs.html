@@ -1,0 +1,22 @@
+---
+layout: archive
+author_profile: true
+---
+
+{{ content }}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "List of Blogs" }}</h3>
+
+
+<ul class="blog-list">
+    {% for blog in site.blogs %}
+      <li class="blog-item">
+        <a href="{{ blog.url }}">{{ blog.title }}</a>
+        <div class="meta-info">
+          <span>{{ blog.date | date: "%B %d, %Y" }}</span>
+          <p>{{ blog.description }}</p>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+  

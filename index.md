@@ -18,26 +18,21 @@ Welcome to my portfolio website! My name is Chin-Erdene Gantulga. This site is d
 
 In this section, you can find my personal information, including my background, current school, hobbies, and future plans!
 
-<!-- ### Blogs
+### Blogs
 
-I've wanted to write blogs for a very long time but hesitated because I wasn't comfortable sharing my personal ideas and thoughts. However, I've decided to start blogging now. You can find out why in my first blog post, "[Why I Decided to Write Blogs](http://makeabilitylab.io/)” -->
+Here goes everything aside from academic work, like hackathons, clubs, student jobs, and travels etc. I will also try to include some lifestyle blogs, like diet, sleep, and exercises.
 
 ### Courses
 
 Here, I basically wanted to write brief overview of my experiences with classes at the UW, such as course content, professors, and homework! I wanted to write about them so that I would be able to reference them in the future!
 
-### Projects
+<!-- ### Projects
 
-In this section, I will do my best to provide explanations of the projects I have worked on, balancing technical depth but with a clarity for non-technical person. I believe the content will evolve over time as I continue to work on new projects. 
+In this section, I will do my best to provide explanations of the projects I have worked on, as well as the extracurriculars & hackathons I did. I believe the content will evolve over time as I continue to work on new projects & extracurriculars.  -->
 
 ### Experiences
 
 I wanted to talk more about my experiences in detail here because there are times I need to look back to the technical stuff, so I’m documenting them here again for future references. 
-
-
-
-
-
 
 
 

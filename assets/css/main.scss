@@ -99,3 +99,129 @@ $custom_icon_path: "/assets/images";
 
 // $global-font-family : $serif;
 // $header-font-family : $sans-serif-narrow;
+
+
+
+// Courses CSS Layout
+.course-list {
+  list-style-type: none;  /* Remove bullet points */
+  padding: 0;
+  margin: 0;
+}
+
+.course-item {
+  margin: 15px 0;  /* Add more spacing between items */
+  font-family: 'Helvetica', sans-serif;  /* Adjust font if needed */
+  font-size: 1.2rem;  /* Adjust font size */
+}
+
+.course-item a {
+  color: #007acc;  /* Customize link color */
+  font-weight: bold;
+  font-size: 1.1rem;
+  display: block;
+}
+
+.course-item a:hover {
+  color: #005f99;  /* Change color on hover */
+}
+
+.course-item .meta-info {
+  font-size: 0.9rem;  /* Smaller font size for meta information */
+  color: #6b6b6b;  /* Muted color for meta info */
+}
+
+.course-item .read-time {
+  display: inline-block;
+  margin-left: 10px;
+  color: #6b6b6b; /* Match meta-info color */
+}
+
+.course-item p {
+  margin: 5px 0;
+  color: #4d4d4d;  /* Customize description text color */
+  font-size: 1rem;
+}
+
+
+/* Blog CSS Layout */
+.blog-list {
+  list-style-type: none;  /* Remove bullet points */
+  padding: 0;
+  margin: 0;
+}
+
+.blog-item {
+  margin: 15px 0;  /* Add more spacing between items */
+  font-family: 'Helvetica', sans-serif;  /* Adjust font if needed */
+  font-size: 1.2rem;  /* Adjust font size */
+}
+
+.blog-item a {
+  color: #007acc;  /* Customize link color */
+  font-weight: bold;
+  font-size: 1.1rem;
+  display: block;
+  // text-decoration: none; /* Remove underline from links */
+}
+
+.blog-item a:hover {
+  color: #005f99;  /* Change color on hover */
+}
+
+.blog-item .meta-info {
+  font-size: 0.9rem;  /* Smaller font size for meta information */
+  color: #6b6b6b;  /* Muted color for meta info */
+}
+
+.blog-item p {
+  margin: 5px 0;
+  color: #4d4d4d;  /* Customize description text color */
+  font-size: 1rem;
+}
+
+
+
+/* Experiences CSS Layout */
+.experience-list {
+  list-style-type: none;  /* Remove bullet points */
+  padding: 0;
+  margin: 0;
+}
+
+.experience-item {
+  margin: 15px 0;  /* Add more spacing between items */
+  font-family: 'Helvetica', sans-serif;  /* Adjust font if needed */
+  font-size: 1.2rem;  /* Adjust font size */
+}
+
+.experience-item a {
+  color: #007acc;  /* Customize link color */
+  font-weight: bold;
+  font-size: 1.1rem;
+  display: block;
+  // text-decoration: none; /* Remove underline from links */
+}
+
+.experience-item a:hover {
+  color: #005f99;  /* Change color on hover */
+}
+
+.experience-item .meta-info {
+  font-size: 0.9rem;  /* Smaller font size for meta information */
+  color: #6b6b6b;  /* Muted color for meta info */
+  margin-top: 5px;  /* Add some spacing above the dates */
+}
+
+.experience-item .date-range {
+  font-size: 0.9rem;  /* Smaller font size for date range */
+  color: #4d4d4d;  /* Customize date text color */
+  display: block;
+  margin-bottom: 5px;  /* Space between the date and the description */
+}
+
+.experience-item p {
+  margin: 5px 0;
+  color: #4d4d4d;  /* Customize description text color */
+  font-size: 1rem;
+}

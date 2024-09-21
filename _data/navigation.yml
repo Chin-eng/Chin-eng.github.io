@@ -5,13 +5,15 @@ main:
 
   # - title: "Blog"
   #   url: blog
-  
+
+  - title: "Blog"
+    url: blogs
+
   - title: "Courses"
     url: courses
 
-  - title: "Projects"
-    url: projects
+  # - title: "Projects"
+  #   url: projects
 
   - title: "Experiences"
     url: experiences
-

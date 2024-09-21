@@ -1,5 +1,8 @@
 ---
-layout: archive
-title: "SeedShare"
-date: 2024-08-05
+layout: post
+collection: experiences
+title: "SeedShare- Software Engineer"
+start_date: 2023-06-01
+end_date: 2023-08-31
+description: "Worked on developing new features for the application."
 ---

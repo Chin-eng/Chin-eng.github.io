@@ -7,13 +7,21 @@ author_profile: true
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "List of Experiences" }}</h3>
 
-<ul>
+
+
+<ul class="experience-list">
   {% for experience in site.experiences %}
-    <li>
-      <a href="{{experience.url}}">{{ experience.title }}</a>
+    <li class="experience-item">
+      <a href="{{ experience.url }}">{{ experience.title }}</a>
+      <div class="meta-info">
+        <!-- Display start date to end date -->
+        <span class="date-range">{{ experience.start_date | date: "%B %Y" }} - {{ experience.end_date | date: "%B %Y" }}</span>
+      </div>
+      <p>{{ experience.description }}</p> <!-- Optional: short description of the experience -->
     </li>
   {% endfor %}
 </ul>
+
 
 
 

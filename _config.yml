@@ -41,9 +41,15 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /blog/page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /blog/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# pagination:
+#   enabled: true
+#   per_page: 5  # Number of courses per page
+#   collection: courses
+#   permalink: /course/page:num/
 
 include:
   - _pages
@@ -145,9 +151,9 @@ tag_archive:
 
 
 collections:
-  blog:
+  blogs:
     output: true
-    permalink: /blog/:name/
+    permalink: /blogs/:name/
   courses:
     output: true
     permalink: /courses/:name/
