@@ -3,5 +3,5 @@ layout: archive
 title: "Husky Den"
 date: 'September 20'
 year: 2024
-description: Explores concepts and techniques for design and construction of reliable and maintainable software systems, xprogram structures and designs
+description: The UW Husky Den is a popular dining and social space located in the Husky Union Building (HUB) at the University of Washington.
 ---

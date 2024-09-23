@@ -12,7 +12,7 @@ toc: true
 
 Hi 👋,
 
-Welcome to my portfolio website! My name is Chin-Erdene Gantulga. This site is dedicated to bringing together all my works. I will also update the website periodically, so it is updated regularly!
+Welcome to my portfolio website! My name is Chin-Erdene Gantulga. This site is dedicated to bringing together all my works. I will also update the website periodically, so it is updated regularly [right now I'm still editing most of the writings so there are not here yet]!
 
 ### Bio
 
