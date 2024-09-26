@@ -11,12 +11,7 @@ title: About Me
 
 ## Background
 
-I was born in [Ulaanbaatar, Mongolia](https://en.wikipedia.org/wiki/Ulaanbaatar), where I completed my elementary, middle, and high school education. During this time, I was actively involved in music, performing at both local and national festivals. I was a member of [Mongolia’s Children’s Palace](https://collections.lib.uwm.edu/digital/collection/agsphoto/id/2733/) music band, playing a variety of musical roles. 
-
-However, starting in 10th grade, I chose to focus on academics and study abroad, leaving my music career behind. In high school, I was passionate about math, physics, and science, participating in various olympiads to hone my skills. I graduated from [Sant High School](https://www.facebook.com/SantSchools/) in Ulaanbaatar, Mongolia and came to the United States in 2019 to pursue higher education.
-
-
-
+I was born in [Ulaanbaatar, Mongolia](https://en.wikipedia.org/wiki/Ulaanbaatar), where I completed my elementary, middle, and high school education.  In high school, I was passionate about math, physics, and science, participating in various olympiads.. I graduated from Sant High School in Ulaanbaatar, Mongolia and came to the United States in 2019 to pursue higher education.
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sant school.png" alt="" class="full">
@@ -25,15 +20,19 @@ However, starting in 10th grade, I chose to focus on academics and study abroad,
 
 ## Academics
 
-I’m currently pursuing my education at the [University of Washington, Paul G. Allen School of Computer Science and Engineering](https://www.cs.washington.edu/). During my undergraduate years, I hope to not only take the amazing computer science classes offered at the Paul Allen School but also hope to participate in various student clubs, researches, and internships experiences to gain both theoretical knowledge and practical industry skills.
+I’m currently pursuing my education at the [University of Washington, Paul G. Allen School of Computer Science and Engineering](https://www.cs.washington.edu/). During my undergraduate years, I hope to get involved in school as much as possible. Because some students find passion in doing researches, or consider grad school in the future, it is usually recommended to have an research experience in school even they decide to go to work at industry after graduation. 
+
+Also, I was told having a feel of one start up culture and one big corporation culture usually helps students a lot at job after graduation. Thus, I thought having at least one research experience, as well as two internship experiences before graduation would serve me well. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/selfie.png" alt="" class="full">
   
 <figcaption style="font-size:0.7em;">Random selfie front of the Allen building</figcaption>
 
-I believe most software development concepts, front and back-end engineering can be learned through industry experience without the need for computer lab or direct professor guidance. Thus, during my undergraduate years, I want to take the classes that require the resources and expertise unique to a university settings. Right now, once I get my fundementals, I’m mostly interested in getting my hands into various different topics, from robotics, computer vision, AI , deep learning, NLP to system development and compiler construction. 
 
-In the future, I want to pursue both academic and industry endeavors. Even though I’m planing to get into an industry after graduation, I also wish to pursue academia to contribute to the broader field of computer science. Hence, I intend to explore various domains, from [Human-Centered Design and Engineering (HCDI)](https://www.hcde.washington.edu/) and [Human-Computer Interaction (HCI)](https://en.wikipedia.org/wiki/Human-centered_design#:~:text=Human%2Dcentered%20design%20is%20an,and%20usability%20knowledge%20and%20techniques.) to Software Engineering, computer systems, theoretical computer science, and graphics and visualization.
+Right now, I’m interested in doing research in [Software Development](https://en.wikipedia.org/wiki/Research_software_engineering) and [Programming Languages](https://www.cs.washington.edu/research/plse) for two reasons.  (1) The concepts will be most transferable to industry, (2)  I think finding ways to make a software more reliable and secure would be fascinating!
+
+
+They say that if a student is interested in many things, it often means they aren’t truly focused on any. However, while I aim to concentrate on one area, I also want to explore various fields. Once I take Machine Learning, and UW CSE 400 level courses (OS, Complier, and networks), I hope to combine these concepts with Software Engineering.In the future, I may to dive into [Robotics](https://robotics.cs.washington.edu/), [Machine Learning](https://www.cs.washington.edu/research/ml), [Human-Centered Design and Engineering](https://www.hcde.washington.edu/), as well as [Operating Systems](https://www.cs.washington.edu/couses/operating-systems). 
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dungeon.png" alt="" class="full">
@@ -41,9 +40,9 @@ In the future, I want to pursue both academic and industry endeavors. Even thoug
 <figcaption style="font-size:0.7em;">This is where I usually reside during a school year, The Allen Building Dungeon.</figcaption>
 
 
-As an avid science fiction fan as a kid, I could not help but to feel excited about the future when I was reading [Walter Isaacson’s new Elon Musk book](https://www.amazon.com/Elon-Musk-Walter-Isaacson/dp/1982181281). Like human beings can communicate with each other without oral communication using the Neuralink’s chip implant, the Optimus robot being accessible to every household same as personal computer, and humanity going to Mars seem all fascinating prospects. 
+<!-- As an avid science fiction fan as a kid, I could not help but to feel excited about the future when I was reading [Walter Isaacson’s new Elon Musk book](https://www.amazon.com/Elon-Musk-Walter-Isaacson/dp/1982181281). Like human beings can communicate with each other without oral communication using the Neuralink’s chip implant, the Optimus robot being accessible to every household same as personal computer, and humanity going to Mars seem all fascinating prospects. 
 
-In "[The Age of Spiritual Machines](https://www.amazon.com/Age-Spiritual-Machines-Computers-Intelligence/dp/0140282025)," Ray Kurzweil explains how exponential growth drives technological advancement, and [Moore’s Law](https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#:~:text=Moore's%20Law%20is%20the%20observation,original%20paper%20published%20in%201965.) illustrates how computing power continually increases over time. I believe we are in an era where technology is advancing rapidly, blurring the lines between fiction and reality.
+In "[The Age of Spiritual Machines](https://www.amazon.com/Age-Spiritual-Machines-Computers-Intelligence/dp/0140282025)," Ray Kurzweil explains how exponential growth drives technological advancement, and [Moore’s Law](https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#:~:text=Moore's%20Law%20is%20the%20observation,original%20paper%20published%20in%201965.) illustrates how computing power continually increases over time. I believe we are in an era where technology is advancing rapidly, blurring the lines between fiction and reality. -->
 
 
 ## Hobbies

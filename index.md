@@ -24,7 +24,7 @@ Here goes everything aside from academic work, like hackathons, clubs, student j
 
 ### Courses
 
-Here, I basically wanted to write brief overview of my experiences with classes at the UW, such as course content, professors, and homework! I wanted to write about them so that I would be able to reference them in the future!
+Here, I basically wanted to write brief overview of my experiences with classes at the UW, such as course content, professors, homework, and class notes! I wanted to write about them so that I would be able to reference them in the future!
 
 <!-- ### Projects
 
