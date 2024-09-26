@@ -20,9 +20,9 @@ I was born in [Ulaanbaatar, Mongolia](https://en.wikipedia.org/wiki/Ulaanbaatar)
 
 ## Academics
 
-I’m currently pursuing my education at the [University of Washington, Paul G. Allen School of Computer Science and Engineering](https://www.cs.washington.edu/). During my undergraduate years, I hope to get involved in school as much as possible. Because some students find passion in doing researches, or consider grad school in the future, it is usually recommended to have an research experience in school even they decide to go to work at industry after graduation. 
+I’m currently pursuing my education at the [University of Washington, Paul G. Allen School of Computer Science and Engineering](https://www.cs.washington.edu/). During my undergraduate years, I hope to get involved in school as much as possible. I was told that having both research and internships experiences are vital. Because some students find passion in doing researches, or consider grad school in the future, it is usually recommended to have an research experience in school even they decide to go to work at industry after graduation. 
 
-Also, I was told having a feel of one start up culture and one big corporation culture usually helps students a lot at job after graduation. Thus, I thought having at least one research experience, as well as two internship experiences before graduation would serve me well. 
+Also, they say having a feel of one start up culture and one big corporation culture usually helps students a lot at job after graduation. Thus, I thought having at least one research experience, as well as two internship experiences before graduation would serve me well. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/selfie.png" alt="" class="full">
   
