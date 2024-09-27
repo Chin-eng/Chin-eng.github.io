@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "CSE 390F: Tackling Climate Change with Technology"
 toc: true 
 quarter: FALL
