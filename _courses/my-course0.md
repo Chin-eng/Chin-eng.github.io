@@ -43,5 +43,15 @@ Gale-Shapley guarantees to find a stable match
 
 ## Section 1: Stable Matching, Induction Review (Sep 26, Thursday)
 
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cse421/week1/section1.png" alt="" class="full"> -->
+ We discussed stable and unstable matches as well as Gale-Shapely algorithm, and walked through few section problems. 
 
-<!-- ## Lecture 2: Stable Matching, Overview -->
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/cse421/week1/section1.png" alt="" class="full">
+
+## Lecture 2: Stable Matching, Overview (Sep 27, Friday)
+
+The lecture started with homework 1 introduction, Ed Stem discussion, and office hours starting today, as well as some review with stable matching problems from lecture 1 and Gale Shapley algorithm. Gale Shapley guarantees to find a stable matching. However, this algorithm is very useful in for the proposal side but it is not that great for the receiver side. We proved proposer optimal and receiver pessimality through proof by contradiction during lecture.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/cse421/week1/lecture2.png" alt="" class="full">
+
+### Week 2
