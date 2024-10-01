@@ -5,3 +5,5 @@ quarter: SPRING
 year: 2024
 description: Introduces database management systems and writing applications, relational, semi-structured data models, query languages;
 ---
+
+## To be updated!

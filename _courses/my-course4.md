@@ -5,3 +5,5 @@ quarter: WINTER
 year: 2024
 description: Examines fundamentals of enumeration and discrete probability; applications of randomness to computing
 ---
+
+## To be updated!

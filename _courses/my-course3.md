@@ -5,3 +5,5 @@ quarter: WINTER
 year: 2024
 description: Covers abstract data types and structures; multithreading and parallel algorithms; P and NP complexity classes
 ---
+
+## To be updated!
