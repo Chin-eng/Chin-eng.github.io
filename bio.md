@@ -24,12 +24,12 @@ I’m currently pursuing my education at the [University of Washington, Paul G. 
 
 Also, they say having a feel of one start up culture and one big corporation culture usually helps students a lot at job after graduation. Thus, I thought having at least one research experience, as well as two internship experiences before graduation would serve me well. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/selfie.png" alt="" class="full">
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/selfie.png" alt="" class="full"> -->
   
-<figcaption style="font-size:0.7em;">Random selfie front of the Allen building</figcaption>
+<!-- <figcaption style="font-size:0.7em;">Random selfie front of the Allen building</figcaption> -->
 
 
-Right now, I’m interested in doing research in [Software Development](https://en.wikipedia.org/wiki/Research_software_engineering) and [Programming Languages](https://www.cs.washington.edu/research/plse) for two reasons.  (1) The concepts will be most transferable to industry, (2)  I think finding ways to make a software more reliable and secure would be fascinating!
+Right now, I’m interested in doing research in [Software Development](https://en.wikipedia.org/wiki/Research_software_engineering) and [Programming Languages](https://www.cs.washington.edu/research/plse) for two reasons.  (1) The concepts will be most transferable to industry, (2)  I think finding ways to make a software more reliable and fast would be fascinating!
 
 
 They say that if a student is interested in many things, it often means they aren’t truly focused on any. However, while I aim to concentrate on one area, I also want to explore various fields. Once I take Machine Learning, and UW CSE 400 level courses (OS, Complier, and networks), I hope to combine these concepts with Software Engineering.In the future, I may to dive into [Robotics](https://robotics.cs.washington.edu/), [Machine Learning](https://www.cs.washington.edu/research/ml), [Human-Centered Design and Engineering](https://www.hcde.washington.edu/), as well as [Operating Systems](https://www.cs.washington.edu/couses/operating-systems). 
