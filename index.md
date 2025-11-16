@@ -20,7 +20,7 @@ Quick Intro!
 
 ### Blogs
 
-I am planning a blog!
+It is not really a blog. 
 
 ### Courses
 
