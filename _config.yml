@@ -78,7 +78,7 @@ plugins:
 author:
   name   : "Chin-Erdene Gantulga"
   avatar : "assets/images/Chin-Erdene Gantulga.png"
-  bio    : "Studying Computer Science at the University of Washington, but not really a good student"
+  bio    : "Studying Computer Science at the University of Washington"
 
   links:
     # - label: "Makeability Lab"
