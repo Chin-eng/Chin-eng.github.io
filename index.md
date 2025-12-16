@@ -20,11 +20,11 @@ Quick Intro!
 
 ### Blogs
 
-It is not really a blog. 
+It is a blog... 
 
 ### Courses
 
-Should I write courses here?
+Courses here....
 
 ### Projects
 
