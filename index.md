@@ -14,9 +14,9 @@ Hi 👋,
 
 Welcome to my portfolio website! My name is Chin-Erdene Gantulga. 
 
-<!-- ### Bio
+### Bio
 
-Quick Intro! -->
+Quick Intro!
 
 
 
