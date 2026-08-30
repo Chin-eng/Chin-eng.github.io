@@ -18,21 +18,7 @@ Welcome to my portfolio website! My name is Chin-Erdene Gantulga.
 
 Quick Intro!
 
-### Blogs
 
-It is a blog... 
-
-### Courses
-
-Courses here....
-
-### Projects
-
-Yes, Projects...
-
-### Experiences
-
-Some experiences....
 
 
 
