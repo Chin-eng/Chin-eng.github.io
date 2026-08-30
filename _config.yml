@@ -150,17 +150,17 @@ tag_archive:
 #     anonymize_ip: false # default
 
 
-collections:
-  blogs:
-    output: false
-    permalink: /blogs/:name/
-  courses:
-    output: false
-    permalink: /courses/:name/
-  experiences:
-    output: false
-    permalink: /experiences/:name/
-  projects:
-    output: false
-    permalink: /projects/:name/
+# collections:
+#   blogs:
+#     output: false
+#     permalink: /blogs/:name/
+#   courses:
+#     output: false
+#     permalink: /courses/:name/
+#   experiences:
+#     output: false
+#     permalink: /experiences/:name/
+#   projects:
+#     output: false
+#     permalink: /projects/:name/
   
