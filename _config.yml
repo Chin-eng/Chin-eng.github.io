@@ -152,15 +152,15 @@ tag_archive:
 
 collections:
   blogs:
-    output: true
+    output: false
     permalink: /blogs/:name/
   courses:
-    output: true
+    output: false
     permalink: /courses/:name/
   experiences:
-    output: true
+    output: false
     permalink: /experiences/:name/
   projects:
-    output: true
+    output: false
     permalink: /projects/:name/
   
