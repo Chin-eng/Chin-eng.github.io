@@ -1,19 +1,19 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/navigation/
 main:
-  - title: "Bio"
-    url: bio
+  # - title: "Bio"
+  #   url: bio
+
+  # # - title: "Blog"
+  # #   url: blog
 
   # - title: "Blog"
-  #   url: blog
+  #   url: blogs
 
-  - title: "Blog"
-    url: blogs
+  # - title: "Courses"
+  #   url: courses
 
-  - title: "Courses"
-    url: courses
+  # # - title: "Projects"
+  # #   url: projects
 
-  # - title: "Projects"
-  #   url: projects
-
-  - title: "Experiences"
-    url: experiences
+  # - title: "Experiences"
+  #   url: experiences
